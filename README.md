@@ -119,30 +119,8 @@ Workshop_2/
 
 ---
 
-## Criterios de Evaluación
-
-### Clasificación
-
-| Criterio | Peso |
-|----------|------|
-| Justificación teórica y análisis preliminar | 20% |
-| EDA, extracción de características e interpretaciones | 20% |
-| Preprocesamiento de datos y pipeline | 20% |
-| Implementación, ajuste de hiperparámetros y comparación de modelos | 25% |
-| Prueba con muestra artificial y análisis | 15% |
-
-### Regresión
-
-| Criterio | Peso |
-|----------|------|
-| Justificación teórica y análisis preliminar | 20% |
-| EDA e interpretaciones | 20% |
-| Preprocesamiento de datos y pipeline | 20% |
-| Implementación y evaluación del modelo CNN | 25% |
-| Prueba con muestra artificial y análisis | 15% |
-
----
-
 ## Autores
 
-- **shurtadom3** – [GitHub](https://github.com/shurtadom3)
+- Alyson Dahiana Henao
+- Gabriel Atehortua
+- Sara Hurtado
